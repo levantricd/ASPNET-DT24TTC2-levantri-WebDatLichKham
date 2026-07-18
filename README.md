@@ -24,3 +24,8 @@
 - Quản lý lịch hẹn.
 - Trang quản trị hệ thống.
 
+## Tác giả
+- Họ và tên: Lê Văn Trí
+- Trường/Lớp: DT24TTC2
+- Email: trilv100289@tvu-onschool.edu.vn
+- Điện thoại: 0935478873
