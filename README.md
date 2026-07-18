@@ -1,7 +1,7 @@
-# Website Đăng ký Khám bệnh Từ xa
+# Website đặt lịch hẹn khám bệnh ngoài giờ
 
 ## Giới thiệu
-Đây là dự án xây dựng website đăng ký khám bệnh từ xa, giúp người bệnh dễ dàng đặt lịch khám trực tuyến.
+Đây là dự án xây dựng website đặt lịch hẹn khám bệnh ngoài giờ, giúp người bệnh dễ dàng đặt lịch khám trực tuyến.
 ## Mục tiêu
 - Đăng ký tài khoản và đăng nhập.
 - Đặt lịch khám trực tuyến.
