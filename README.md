@@ -23,7 +23,38 @@
 - Đặt lịch khám theo chuyên khoa hoặc bác sĩ.
 - Quản lý lịch hẹn.
 - Trang quản trị hệ thống.
+### Quản trị viên
 
+- Quản lý bác sĩ
+- Quản lý lịch khám
+- Quản lý thông tin đặt lịch
+- Quản lý bệnh nhân
+
+---
+
+## Cấu trúc Repository
+
+```text
+progress-report/
+src/
+database/
+images/
+setup/
+thesis/
+```
+## Tiến độ
+
+- [x] Tạo GitHub Repository
+- [x] Khởi tạo cấu trúc Repository
+- [x] Hoàn thành README
+- [ ] Phân tích yêu cầu
+- [ ] Thiết kế cơ sở dữ liệu
+- [ ] Xây dựng giao diện
+- [ ] Phát triển chức năng
+- [ ] Kiểm thử
+- [ ] Hoàn thiện báo cáo
+
+---
 ## Tác giả
 - Họ và tên: Lê Văn Trí
 - Trường/Lớp: DT24TTC2
