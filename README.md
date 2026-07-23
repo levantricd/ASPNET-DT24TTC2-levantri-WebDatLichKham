@@ -47,8 +47,8 @@ thesis/
 - [x] Tạo GitHub Repository
 - [x] Khởi tạo cấu trúc Repository
 - [x] Hoàn thành README
-- [ ] Phân tích yêu cầu
-- [ ] Thiết kế cơ sở dữ liệu
+- [x] Phân tích yêu cầu
+- [x] Thiết kế cơ sở dữ liệu
 - [ ] Xây dựng giao diện
 - [ ] Phát triển chức năng
 - [ ] Kiểm thử
